@@ -15,7 +15,7 @@ type Project = {
 const projects: Project[] = [
   {
     title: 'Devforces',
-    description: 'A social platform where developers share projects, ideas, and grow together.',
+    description: 'A developer community platform to level up your dev game — share projects, compete, and grow together.',
     status: 'Live',
     image: devforces,
     accent: '#1a1a2e',
@@ -23,7 +23,7 @@ const projects: Project[] = [
   },
   {
     title: 'Lovable',
-    description: 'Record studio-quality remote audio and video, locally captured without quality loss.',
+    description: 'An AI-powered website builder that lets you build beautiful websites with a single prompt.',
     status: 'Building',
     image: lovable,
     accent: '#0d1117',
@@ -31,7 +31,7 @@ const projects: Project[] = [
   },
   {
     title: 'Codeforces',
-    description: 'Real-time database introspection and query analytics built for backend engineers.',
+    description: 'A competitive programming companion — track contests, solve problems, and monitor your Codeforces progress.',
     status: 'Live',
     image: codeforces,
     accent: '#0f2027',
@@ -39,7 +39,7 @@ const projects: Project[] = [
   },
   {
     title: '100xGamble',
-    description: 'Type-safe end-to-end API layer — generate clients directly from your Rust backend.',
+    description: 'A Solana-based roulette gambling dApp — place bets, spin the wheel, and win SOL on-chain.',
     status: 'Building',
     image: gamble,
     accent: '#1a0a00',
